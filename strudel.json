@@ -1,10 +1,1 @@
-{
-    "_base": "github:nimosana/CART-398/sounds/master",
-    "bd": [
-        "/bd/sound1_stab.wav",
-        "/bd/sound2_wave.wav"
-    ],
-    "other": [
-        "/other/Computer.wav"
-    ]
-}
+{"_base":"github:nimosana/sounds/master","other":["/other/Computer.wav"],"specialsound":["/specialsound/sound1_stab.wav","/specialsound/sound2_wave.wav"]}
